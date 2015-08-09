@@ -1,4 +1,4 @@
-###Open - v0.2.1
+###Open - v0.2.2
 Open is a webapp for those that want to design or re-design webpages, 
 but have little experience using HTML, CSS, or JavaScript.
 
