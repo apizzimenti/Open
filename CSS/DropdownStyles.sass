@@ -1,0 +1,87 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans)
+
+$mainfont: "Open Sans"
+
+#open
+    font-family: $mainfont
+    position: fixed
+    top: 0px
+    width: 100%
+    z-index: 1
+
+#outerwrapper
+    margin: auto
+    width: 200px
+    height: auto
+    background-color: #1AB577
+    padding: 2px
+
+    button
+        border: none
+        width: 100%
+        background: transparent
+        font-family: $mainfont
+        font-size: 13px
+        outline: none
+        font-weight: bold
+
+        &:hover
+            cursor: pointer
+        
+    form
+        padding: 2px
+        border-radius: none
+
+    #wrapper
+        display: none
+
+        select
+            font-family: $mainfont
+            border: none
+            border-right: 2px solid black
+            
+        #input
+            border: none
+            border-right: 2px solid black
+            padding: 1px
+
+            &::-webkit-input-placeholder
+                font-family: $mainfont
+                
+        #apply
+            margin-top: 2px
+            width: 100%
+            outline: none
+            font-family: $mainfont
+            font-weight: bold
+            border: none
+            border-right: 2px solid black
+            background: white
+
+            &:hover
+                cursor: pointer
+
+#notificationwrapper
+    display: none
+    width: 100%
+    z-index: 1
+    position: fixed
+    top: 150px
+    
+    #notification
+        
+        width: 300px
+        margin: auto
+        padding: 5px
+        font-family: "Open Sans"
+        font-size: 14px
+        background-color: #3E73BE
+        color: #F6F6FC
+        transition-timing-function: ease-out
+
+        &:hover
+            cursor: pointer
+        
+        
+        h3
+            border-bottom: 2px solid #F6F6FC
