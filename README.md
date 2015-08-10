@@ -1,4 +1,4 @@
-<img src="https://dl.dropbox.com/s/ajla1dwvb9n0zf3/Large.png?dl=0" alt="default logo" style="height: 250px; width: 250px;"/>
+<img src="https://dl.dropbox.com/s/ajla1dwvb9n0zf3/Large.png?dl=0" alt="default logo" style="height: 250px; width: 250px;">
 
 ###Open - v0.2.2
 Open is a webapp for those that want to design or re-design webpages, 
