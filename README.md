@@ -1,4 +1,5 @@
-<img src="https://dl.dropbox.com/s/ajla1dwvb9n0zf3/Large.png?dl=0" alt="default logo" width="100" align="middle">
+<a href="https://www.behance.net/JKDesignCo"><img src="https://dl.dropbox.com/s/ajla1dwvb9n0zf3/Large.png?dl=0" alt="default logo" width="100" align="middle"
+title="Icons by /u/JoshKerky. Click the image for a portfolio or more info."></a>
 
 ###Open - v0.2.2
 Open is a webapp for those that want to design or re-design webpages, 
