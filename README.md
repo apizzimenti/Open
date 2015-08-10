@@ -1,4 +1,4 @@
-![Open Logo](https://dl.dropbox.com/s/ajla1dwvb9n0zf3/Large.png?dl=0)
+![Open Logo](https://dl.dropbox.com/s/ajla1dwvb9n0zf3/Large.png?dl=0 =250x250)
 
 ###Open - v0.2.2
 Open is a webapp for those that want to design or re-design webpages, 
